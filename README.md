@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ernestdefoe/since.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/since) or the [upstream repository](https://github.com/ernestdefoe/since).
 
-**0** versions archived · Latest: [`v1.1.1`](https://github.com/flarchive/ernestdefoe-since/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`v1.1.1`](https://github.com/flarchive/ernestdefoe-since/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-since/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-since/tree/archive/v1.1.0) |
+| `v1.1.1` | 2026-09-13 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-since/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/ernestdefoe-since.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-since.json)
 
